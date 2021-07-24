@@ -1,6 +1,6 @@
 body{
     
-    background: url("images/pexels-victor.jpg") no-repeat center fixed;
+    background: url("../images/pexels-victor.jpg") no-repeat center fixed;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
